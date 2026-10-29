@@ -1,5 +1,7 @@
 # ConstructNoteApp
 
+> Empty Construct notes project scaffold; documentation only. See [PUBLICATION.md](PUBLICATION.md) for verification and limits.
+
 Empty or inaccessible placeholder repository for an old notes-app experiment.
 
 ## Audit status
